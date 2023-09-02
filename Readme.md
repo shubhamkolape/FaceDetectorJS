@@ -14,6 +14,10 @@ This repository contains a web application that uses JavaScript and the Face API
 
 
 
+ ## [Click here to Preview](https://facedetectorbyshubh.netlify.app/)
+
+
+
 ## Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
